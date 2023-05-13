@@ -1,0 +1,5 @@
+---
+thisApplicationPort: 3333
+loginEndoint: https://192.168.1.167/cgi-bin/
+macAddress: 24:5E:BE:4D:05:F7
+broadcastAddress: 192.168.1.255

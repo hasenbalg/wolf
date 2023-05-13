@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  wolf:
+    build: .
+    ports:
+      - "3333:3333"
