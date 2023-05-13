@@ -1,6 +1,7 @@
 version: "3.9"
 services:
   wolf:
+    restart: always
     build: .
     ports:
       - "3333:3333"
